@@ -1,0 +1,8 @@
+{
+  "name": "link",
+  "compatibility_date": "2026-10-28",
+  "assets": {
+    "directory": "./site",
+    "not_found_handling": "404-page"
+  }
+}
